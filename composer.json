@@ -1,0 +1,5 @@
+{
+    "require": {
+        "copyleaks/php-plagiarism-checker": "^3.0"
+    }
+}
